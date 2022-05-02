@@ -9,15 +9,21 @@
 }
 .nft__card--coin-value::before{ 
   content: '';
-  background-image: url(../img/icon-ethereum.svg);
-  background-repeat: no-repeat;
-  background-position: center;
+  background: url(../img/icon-ethereum.svg) no-repeat center;
   display: inline-block;
   width: 11px;
   height: 20px;
-  margin-right: 5px;
+  margin-right: 7px;
 }
 .nft__card--coin-countdown {
   color: var(--soft-blue);
   font-size: 1.6rem;
+  display: flex;
+}
+.nft__card--coin-countdown::before{ 
+  content: '';
+  background: url(../img/icon-clock.svg) no-repeat center;
+  display: inline-block;
+  width: 15px;
+  margin-right: 6px;
 }
