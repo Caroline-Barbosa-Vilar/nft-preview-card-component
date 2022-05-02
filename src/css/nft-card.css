@@ -1,6 +1,10 @@
 .nft__card {
-  max-width: 346px;
+  max-width: 350px;
+  background-color: var(--dark-blue);
+  border-radius: 15px;
+  padding: 25px;
 }
 .nft__card--img {
   width: 100%;
+  border-radius: 15px;
 }
