@@ -3,6 +3,7 @@
   align-items: center;
   border-top: .8px solid var(--soft-blue);
   padding-top: 20px;
+  margin-top: 22px;
 }
 .nft__card--creator-img {
   max-width: 32px;
