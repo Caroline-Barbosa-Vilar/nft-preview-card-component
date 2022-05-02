@@ -15,3 +15,8 @@ html {
 body {
   background-color: var(--very-dark-blue);
 }
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
