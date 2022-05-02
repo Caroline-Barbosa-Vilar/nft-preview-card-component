@@ -1,0 +1,19 @@
+.nft__card--creator {
+  display: flex;
+  align-items: center;
+  border-top: .8px solid var(--soft-blue);
+  padding-top: 20px;
+}
+.nft__card--creator-img {
+  max-width: 32px;
+  border: 1px solid var(--white);
+  border-radius: 50%;
+  margin-right: 15px;
+}
+.nft__card--creator-description {
+  color: var(--soft-blue);
+  font-size: 1.6rem;
+}
+.nft__card--creator-name {
+  color: var(--white);
+}
