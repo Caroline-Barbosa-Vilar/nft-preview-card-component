@@ -4,7 +4,9 @@
 }
 .nft__card--coin-value {
   color: var(--cyan);
+  font-size: 1.6rem;
 }
 .nft__card--coin-countdown {
   color: var(--soft-blue);
+  font-size: 1.6rem;
 }
