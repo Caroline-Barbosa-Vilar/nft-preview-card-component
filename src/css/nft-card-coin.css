@@ -4,7 +4,18 @@
 }
 .nft__card--coin-value {
   color: var(--cyan);
-  font-size: 1.6rem;
+  font-size: 1.6rem; 
+  display: flex;
+}
+.nft__card--coin-value::before{ 
+  content: '';
+  background-image: url(../img/icon-ethereum.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  display: inline-block;
+  width: 11px;
+  height: 20px;
+  margin-right: 5px;
 }
 .nft__card--coin-countdown {
   color: var(--soft-blue);
