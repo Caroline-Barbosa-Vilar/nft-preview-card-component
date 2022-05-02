@@ -6,9 +6,12 @@
   --very-dark-blue:#0c182b;
   --cyan:#00fff6;
 
-  --
+  --outfit:'Outfit', sans-serif;
 
 }
 html {
   box-sizing: border-box;
+}
+body {
+  background-color: var(--very-dark-blue);
 }
