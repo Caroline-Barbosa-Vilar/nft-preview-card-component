@@ -1,8 +1,8 @@
 .nft__card--creator {
   display: flex;
   align-items: center;
-  border-top: .8px solid var(--soft-blue);
-  padding-top: 20px;
+  border-top: .8px solid var(--grayish-blue);
+  padding-top: 18px;
   margin-top: 22px;
 }
 .nft__card--creator-img {
