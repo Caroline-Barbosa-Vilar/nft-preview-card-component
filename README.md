@@ -20,24 +20,24 @@ https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U
 
 ## What I learned:
 
-- 
+- How to create and apply the 'active state' features proposed in the challenge.
 
 ## My resolution: 
 
-
+<img src="./src/nft-preview-card-resolution.gif" alt="Of my frontend mentor resolution">
 
 
 Mobile version:
 
-<img src="./src/nft-preview-card-component-mobile-screen.gif" alt="The NFT preview card mobile screen gif">
+<img src="./src/nft-preview-card-mobile.gif" alt="The NFT preview card mobile screen gif">
 
 Tablet version:
 
-<img src="./src/nft-preview-card-component-tablet-screen.gif" alt="The NFT preview card tablet screen gif">
+<img src="./src/nft-preview-card-tablet.gif" alt="The NFT preview card tablet screen gif">
 
 Desktop version:
 
-<img src="./src/nft-preview-card-component-desktop-screen.gif" alt="The NFT preview card  desktop screen gif">
+<img src="./src/nft-preview-card-desktop.gif" alt="The NFT preview card  desktop screen gif">
 
 
 ---
@@ -62,7 +62,7 @@ https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n/h
 
 ## O que aprendi:
 
-- Meu primeiro desafio do Frontend Mentor desenvolvido mobile-first.
+- Como criar e aplicar as features propostas no desafio.
 
 
 ## Meu resultado: 
