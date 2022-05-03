@@ -1,0 +1,12 @@
+.attribution {
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.attribution p {
+  color: var(--grayish-blue);
+}
+.attribution a {
+  color: var(--cyan);
+}
