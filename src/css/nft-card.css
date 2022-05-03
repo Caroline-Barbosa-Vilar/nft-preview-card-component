@@ -3,6 +3,7 @@
   background-color: var(--dark-blue);
   border-radius: 10px;
   padding: 25px;
+  box-shadow: 20px 20px 20px rgb(5, 11, 21);
 }
 .nft__card--link {
   position: relative;
