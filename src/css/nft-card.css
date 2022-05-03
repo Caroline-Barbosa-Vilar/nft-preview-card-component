@@ -7,6 +7,8 @@
 .nft__card--link {
   position: relative;
   display: flex;
+  border-radius: 8px;
+  overflow: hidden;
 }
 .nft__card--link::before {
   content: '';
@@ -42,7 +44,7 @@
   font-size: 2.2rem;
   font-weight: 600;
   color: var(--white);
-  margin: 25px 0 20px;
+  margin: 28px 0 20px;
 }
 .nft__card--title:hover {
   color: var(--cyan);
