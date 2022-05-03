@@ -4,6 +4,17 @@
   border-radius: 10px;
   padding: 25px;
 }
+.nft__card--link {
+  position: relative;
+  display: flex;
+}
+.nft__card--link::before {
+  content: '';
+  background-color: var(--cyan);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
 .nft__card--img {
   width: 100%;
   border-radius: 8px;
@@ -14,7 +25,7 @@
   color: var(--white);
   margin: 25px 0 20px;
 }
-.nft__card--title:hover{
+.nft__card--title:hover {
   color: var(--cyan);
 }
 .nft__card--about {
