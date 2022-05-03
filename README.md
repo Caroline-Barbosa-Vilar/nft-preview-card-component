@@ -24,7 +24,7 @@ https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U
 
 ## My resolution: 
 
-<img src="./src/nft-preview-card-resolution.gif" alt="Of my frontend mentor resolution">
+<img src="./src/nft-preview-card-solution.gif" alt="Of my frontend mentor resolution">
 
 
 Mobile version:
@@ -67,7 +67,7 @@ https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n/h
 
 ## Meu resultado: 
 
-https://bo83dev.github.io/
+https://bo83dev.github.io/nft-preview-card-component/
   
 
   
