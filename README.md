@@ -1,4 +1,4 @@
-<div align='center'> <img src="./src/frontend-mentor.png" alt="the frontend mentor challenge site logo"> </div>
+<div align='center'> <img src="./refactored/readmeImages/frontend-mentor.png" alt="the frontend mentor challenge site logo"> </div>
 
 <h1 align='center'> NFT preview card component </h1>
 
@@ -39,21 +39,33 @@ This is a fictitious NFT Card . This project is one of the challenges proposed o
 ## Technologies used
 
 <div>
+<br>   
+  <p>Before refactoring</p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+   
+   <p>After refactoring</p>
+   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </div>
 
 <br>
 
 ## What I learned
 
+<p>Before refactoring</p>
 - How to create and apply the 'active state' features proposed in the challenge using CSS.
+
+<br>
+
+<p>After refactoring</p>
+- Recreate the project with the component structure in mind,
+- Refactoring the whole project using styled-components and Vite.js
 
 <br>
 
 ## Comparing the result
 
-<div align='center'> <img src="./src/nft-preview-card-solution.gif" alt="Of my frontend mentor resolution"> </div>
+<div align='center'> <img src="./refactored/readmeImages/nft-preview-card-solution.gif" alt="Of my frontend mentor resolution"> </div>
 
 <br>
 
@@ -61,17 +73,8 @@ This is a fictitious NFT Card . This project is one of the challenges proposed o
 
 You can [access the project here](https://caroline-barbosa-vilar.github.io/nft-preview-card-component/) 
 
-Mobile version:
 
-<img src="./src/nft-preview-card-mobile.gif" alt="The NFT preview card mobile screen gif">
-
-Tablet version:
-
-<img src="./src/nft-preview-card-tablet.gif" alt="The NFT preview card tablet screen gif">
-
-Desktop version:
-
-<img src="./src/nft-preview-card-desktop.gif" alt="The NFT preview card  desktop screen gif">
+<img src="./refactored/readmeImages/nft-preview-card-mobile.gif" alt="The NFT preview card mobile screen gif">
 
 <br>
 
@@ -117,21 +120,31 @@ Esse é um card NFT fictício. Esse projeto é um dos desafios propostos no site
 ## Tecnologias utilizadas
 
 <div>
+<br>
+ <p>Antes de refatorar</p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+   
+ <p>Após refatorar</p>
+ <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </div>
 	
 <br>
 
 ## O que aprendi
 
+ <p>Antes de refatorar</p>
 - Como criar o comportamento proposto quando o mouse passar encima da imagem usando CSS.
+<br>
+<p>Após refatorar</p>
+- Recriar o projeto pensando na estrutura de componentes,
+- A refatorar o projeto todo usando styled-components e o Vite.js.
 
 <br>
 
 ## Comparando o resultado
 
-<div align='center'> <img src="./src/nft-preview-card-solution.gif" alt="Of my frontend mentor resolution"> </div>
+<div align='center'> <img src="./refactored/readmeImages/nft-preview-card-solution.gif" alt="Of my frontend mentor resolution"> </div>
 
 <br>
 	
@@ -140,17 +153,7 @@ Esse é um card NFT fictício. Esse projeto é um dos desafios propostos no site
 Você pode [acessar o projeto aqui](https://caroline-barbosa-vilar.github.io/nft-preview-card-component/) 
 
 
-Mobile version:
-
-<img src="./src/nft-preview-card-mobile.gif" alt="The NFT preview card mobile screen gif">
-
-Tablet version:
-
-<img src="./src/nft-preview-card-tablet.gif" alt="The NFT preview card tablet screen gif">
-
-Desktop version:
-
-<img src="./src/nft-preview-card-desktop.gif" alt="The NFT preview card  desktop screen gif">
+<img src="./refactored/readmeImages/nft-preview-card-mobile.gif" alt="The NFT preview card mobile screen gif">
 
 
 <hr>
