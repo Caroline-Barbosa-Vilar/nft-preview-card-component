@@ -5,7 +5,6 @@ export const NftCardContainer = styled.section`
   background-color: ${darkBlue};
   border-radius: 10px;
   box-shadow: 20px 20px 20px rgb(5, 11, 21);
-  margin: auto;
   max-width: 300px;
   padding: 25px;
 `

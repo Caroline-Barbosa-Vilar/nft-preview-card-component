@@ -3,9 +3,9 @@ import NftCard from './components/NftCard/index'
 
 function App() {
   return (
-    <>
+    <Main>
       <NftCard/>
-    </>
+    </Main>
   )
 }
 
